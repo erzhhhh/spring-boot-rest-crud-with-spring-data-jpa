@@ -50,8 +50,6 @@ The project is organized into distinct layers to ensure maintainability and scal
 
 
 
-
-
 ## 📝 API Endpoints
 
 The API is accessible at http://localhost:8080. 
@@ -63,3 +61,10 @@ Below are the available endpoints:
   - DELETE/api/employees/{id} - delete an employee
 
 
+## 📄 API Documentation (Swagger)
+
+This project includes interactive API documentation powered by Swagger.
+You can explore and test all endpoints directly in the browser:
+
+  - http://localhost:8080/swagger-ui/index.html
+  - OpenAPI JSON: http://localhost:8080/v3/api-docs
